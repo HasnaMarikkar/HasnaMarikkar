@@ -1,6 +1,6 @@
 ## Hi there, I'm Hasna! 👋
 
-🔭 I'm currently working on The Kart Pulse - a karting exploration website built from scratch to learn HTML, CSS and JS properly without the usage of AI.
+🔭 I'm currently working on The Kart Pulse - a karting exploration website built from scratch to learn HTML, CSS and JS properly without the usage of AI along with some other academic projects.
 
 🌱 I'm currently learning the Frontend Development Technologies along with Python. 
 
