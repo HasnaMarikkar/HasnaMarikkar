@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi there, I'm Hasna! 👋
 
-<!--
-**HasnaMarikkar/HasnaMarikkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I'm currently working on The Kart Pulse - a karting exploration website built from scratch to learn HTML, CSS and JS properly without the usage of AI.
 
-Here are some ideas to get you started:
+🌱 I'm currently learning the Frontend Development Technologies along with Python. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👯 I’m looking to collaborate on Student developer projects and Health Tech or Automobile Tech ideas.
+
+🤔 I’m looking for help with any resources or ideas would that help me grow in my field.
+
+📫 You can reach me through www.linkedin.com/in/hasnamarikar
+
+😄 Pronouns: she/her
