@@ -19,9 +19,3 @@ I enjoy taking an idea, turning it into something functional, and learning from 
 **Build → Break → Learn → Improve → Repeat.**
 
 ---
-
-### 📊 My GitHub Contributions
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=HasnaMarikkar&theme=dark&ring=58a6ff&fire=58a6ff&currStreakNum=58a6ff&currStreakLabel=58a6ff&sideNums=58a6ff&sideLabels=9e9e9e&dates=9e9e9e&hide_border=true)](https://git.io/streak-stats)
-
-![Hasna's GitHub stats](https://github-readme-stats.vercel.app/api?username=HasnaMarikkar&hide_border=true&show_icons=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_bold=false&text_color=9e9e9e)
