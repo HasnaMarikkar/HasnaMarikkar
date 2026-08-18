@@ -1,7 +1,6 @@
 # Hi there 👋 I'm Hasna
 
-**Builder & Learner**
-
+*Builder & Learner*
 I’m interested in building real, impactful solutions that solve actual problems.
 I’m a learner who **builds to understand**- experimenting with ideas, working on projects, and growing through the process.
 
@@ -21,10 +20,8 @@ I enjoy taking an idea, turning it into something functional, and learning from 
 
 ---
 
-### 📊 GitHub Stats
+### 📊 My GitHub Contributions
 
-<h3>My GitHub contributions summary</h3>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=HasnaMarikkar&theme=dark&ring=58a6ff&fire=58a6ff&currStreakNum=58a6ff&currStreakLabel=58a6ff&sideNums=58a6ff&sideLabels=9e9e9e&dates=9e9e9e&hide_border=true)](https://git.io/streak-stats)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=cycosad&theme=dark&ring=fb4362&file=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true)](https://git.io/streak-stats)
-
-![Akhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=cycosad&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e)
+![Hasna's GitHub stats](https://github-readme-stats.vercel.app/api?username=HasnaMarikkar&hide_border=true&show_icons=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_bold=false&text_color=9e9e9e)
