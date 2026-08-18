@@ -1,6 +1,7 @@
 # Hi there 👋 I'm Hasna
 
-*Builder & Learner*
+*Learner*
+
 I’m interested in building real, impactful solutions that solve actual problems.
 I’m a learner who **builds to understand**- experimenting with ideas, working on projects, and growing through the process.
 
