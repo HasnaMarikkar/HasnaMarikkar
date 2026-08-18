@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Hasna
 
-**Aspiring Software Engineer | Builder & Learner**
+** Builder & Learner**
 
 I’m interested in building real, impactful solutions that solve actual problems.
 I’m a learner who **builds to understand**- experimenting with ideas, working on projects, and growing through the process.
@@ -23,11 +23,4 @@ I enjoy taking an idea, turning it into something functional, and learning from 
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HasnaMarikkar&show_icons=true&hide_border=true&rank_icon=github" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HasnaMarikkar&layout=compact&hide_border=true" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HasnaMarikkar&hide_border=true" />
-</p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=HasnaMarikkar&show_icons=true&hide_border=true&theme=dark" width="48%" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HasnaMarikkar&layout=compact&hide_border=true&theme=dark" width="48%" /> </p>
