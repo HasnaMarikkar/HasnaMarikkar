@@ -23,7 +23,8 @@ I enjoy taking an idea, turning it into something functional, and learning from 
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HasnaMarikkar&show_icons=true&hide_border=true&theme=dark" width="48%" /> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HasnaMarikkar&layout=compact&hide_border=true&theme=dark" width="48%" /> 
-</p>
+<h3>My GitHub contributions summary</h3>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=cycosad&theme=dark&ring=fb4362&file=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true)](https://git.io/streak-stats)
+
+![Akhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=cycosad&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e)
