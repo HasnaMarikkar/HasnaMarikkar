@@ -22,8 +22,12 @@ I enjoy taking an idea, turning it into something functional, and learning from 
 
 ### 📊 GitHub Stats
 
+<div align="center">
+
 ![Hasna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HasnaMarikkar&show_icons=true&theme=github-dark&hide_border=true&title_color=39d353&icon_color=39d353&text_color=c9d1d9&bg_color=0d1117)
 
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=HasnaMarikkar&theme=github-dark&hide_border=true&background=0d1117&ring=39d353&fire=39d353&currStreakLabel=39d353)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HasnaMarikkar&layout=compact&theme=github-dark&hide_border=true&title_color=39d353&text_color=c9d1d9&bg_color=0d1117)
+
+</div>
