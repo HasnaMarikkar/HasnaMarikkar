@@ -1,23 +1,21 @@
-# Hi there 👋 I'm Hasna
+Hi there 👋 I'm Hasna
 
-*Learner*
+Learner
 
-I’m interested in building real, impactful solutions that solve actual problems.
-I’m a learner who **builds to understand**- experimenting with ideas, working on projects, and growing through the process.
+I like learning by actually doing things.
+I’m interested in building solutions to real problems and understanding how things work along the way.
 
-### 🚀 Currently
+🚀 Currently
+🌱 Learning Frontend Development
+⚙️ Learning Backend Development
+🛠️ Working on projects and experimenting with ideas
+💡 Exploring ideas that could become something useful
+🤝 Open to collaborating and learning with others
+📌 A Little About Me
 
-* 🌱 **Frontend Development** — In Progress
-* ⚙️ **Backend Development** — In Progress
-* 🛠️ Building projects to learn through hands-on experience
-* 💡 Exploring ideas that can turn into useful, real-world solutions
-* 🤝 Open to collaborating and learning with other developers
+I learn best when I have something to work on.
 
-### 📌 What I’m About
-
-I enjoy taking an idea, turning it into something functional, and learning from whatever breaks along the way.
-
-**Build → Break → Learn → Improve → Repeat.**
+I like taking an idea, figuring things out as I go, and learning from the mistakes along the way. There’s still a lot I want to learn, and that’s what makes it interesting.
 ---
 
 ### 📊 GitHub Stats
