@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Hasna
+# Hi there, I'm Hasna 👋
 
 *Learner*
 
